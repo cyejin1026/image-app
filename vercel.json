@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/images/transform.js": {
+      "maxDuration": 60
+    }
+  }
+}
